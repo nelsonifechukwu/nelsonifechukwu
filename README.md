@@ -16,7 +16,7 @@
 
 </a>
  
-<a href="https://nelsonelijah.com" target="_blank" style="color:red;"> PORTFOLIO </a>
+ <a href="https://nelsonelijah.com" target="_blank" style="color:red;"> <b> PORTFOLIO </b> </a>
  
  
  <a href="mailto:nelson.ifechukwu@gmail.com" target="_blank">
