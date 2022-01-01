@@ -16,7 +16,7 @@
 </a>
  
 <a href="https://nelsonelijah.com" target="_blank">
- <PORTFOLIO style="margin-bottom: 5px;" />
+ <div> PORTFOLIO style="margin-bottom: 5px;" </div>
 
 </a>
  
