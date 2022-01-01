@@ -15,9 +15,7 @@
 
 </a>
  
-<a href="https://nelsonelijah.com" target="_blank" style="color:#FF0000;"> PORTFOLIO
-
-</a>
+<a href="https://nelsonelijah.com" target="_blank" style="color:#FF0000"> PORTFOLIO </a>
  
  
  <a href="mailto:nelson.ifechukwu@gmail.com" target="_blank">
