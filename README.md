@@ -15,8 +15,7 @@
 
 </a>
  
-<a href="https://nelsonelijah.com" target="_blank">
- <div> PORTFOLIO </div>
+<a href="https://nelsonelijah.com" target="_blank"> <div color = "WHITE"> PORTFOLIO </div>
 
 </a>
  
