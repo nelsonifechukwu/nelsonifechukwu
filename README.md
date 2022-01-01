@@ -1,5 +1,4 @@
-<html>
-<body>
+
 ### <div align="center"> Hi 👋, I'm Nelson Elijah, a Robotics, IoT-Embedded Engineer.</div>
 
 <div align="center">
@@ -28,5 +27,3 @@
 
 </div> 
 
- </body>
- </html>
