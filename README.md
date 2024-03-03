@@ -23,12 +23,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>Ï
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <!--<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
 <img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 </p>
