@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>
 
+<h3 align="left">About me </h3>
 - 🔭 I'm currently working on Embedded systems and Web development @ [SpaceinAfrica](www.spaceinafrica.com)
   
 - 🌱 I'm currently learning about AI, NodeJs, and Advanced Mathematics
