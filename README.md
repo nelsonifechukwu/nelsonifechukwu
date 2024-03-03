@@ -9,9 +9,6 @@
 - 🌱 I'm currently learning about AI, NodeJs, and Advanced Mathematics
 - 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](www.nelsonelijah.com/project/)
 - 📝 I regularly write articles @ [nelsonelijah.com/blog](nelsonelijah.com/blog)
-- 📫 Reach me @ **nelson.ifechukwu@gmail.com**
-- 📄 Know about my experiences @ [nelsonelijah.com](nelsonelijah.com)
-
 - ⚡ Fun fact: **I find it hard to define myself with something specific when I believe the Creator we emanate from is dynamic. I'm constantly evolving.**
 
 <h3 align="left">Connect with me:</h3>
