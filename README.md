@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonifechukwu&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonifechukwu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>
+
 - 🔭 I'm currently working on Embedded systems and Web development @ [SpaceinAfrica](www.spaceinafrica.com)
 - 🌱 I'm currently learning about AI, NodeJs, and Advanced Mathematics
 - 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](www.nelsonelijah.com/project/)
