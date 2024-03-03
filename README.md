@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences @ [nelsonelijah.com](nelsonelijah.com)
 
-- ⚡ Fun fact: **I find it hard to define myself with something specific when I believe the Creator, from which we emanate from, is dynamic. I'm constantly evolving.**
+- ⚡ Fun fact: **I find it hard to define myself with something specific when I believe the Creator we emanate from is dynamic. I'm constantly evolving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
