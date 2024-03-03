@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>Ï
+<img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>Ï
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
