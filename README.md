@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [nelsonelijah.com/project/](www.nelsonelijah.com/project/)
+- 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](www.nelsonelijah.com/project/)
 
-- 📝 I regularly write articles on [nelsonelijah.com/blog](nelsonelijah.com/blog)
+- 📝 I regularly write articles @ [nelsonelijah.com/blog](nelsonelijah.com/blog)
 
 - 📫 Reach me @ **nelson.ifechukwu@gmail.com**
 
