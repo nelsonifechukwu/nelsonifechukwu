@@ -44,7 +44,7 @@
 <h3 align="left">Frameworks: </h3>
 <p align="left">
 <img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
-I'm currently learning <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 </p>
 
 
