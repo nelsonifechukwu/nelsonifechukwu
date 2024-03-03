@@ -46,7 +46,7 @@
 </p>
 
 <h3 align="left">My Github History!</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelsonifechukwu&show_icons=true&locale=en&layout=compact" alt="nelsonifechukwu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelsonifechukwu&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="nelsonifechukwu" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nelsonifechukwu&theme=ayu-mirage&show_icons=true"/> </p>
 
