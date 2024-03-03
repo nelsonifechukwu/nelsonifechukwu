@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson</h1>
-<h3 align="center">A dynamic Systems Engineer (In other words, a genius of adaptability).</h3>
+<h3 align="center">A dynamic Systems engineer: A genius of adaptability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonifechukwu&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonifechukwu" /> </p>
 
