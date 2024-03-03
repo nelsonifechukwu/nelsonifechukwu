@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [nelsonelijah.com](nelsonelijah.com)
+- 👨‍💻 All of my projects are available at [nelsonelijah.com/project/](www.nelsonelijah.com/project/)
 
 - 📝 I regularly write articles on [nelsonelijah.com/blog](nelsonelijah.com/blog)
 
-- 📫 How to reach me **nelson.ifechukwu@gmail.com**
+- 📫 Reach me @ **nelson.ifechukwu@gmail.com**
 
-- 📄 Know about my experiences [nelsonelijah.com](nelsonelijah.com)
+- 📄 Know about my experiences @ [nelsonelijah.com](nelsonelijah.com)
 
-- ⚡ Fun fact **I find it hard to tag myself as something when I believe the Creator, from which we emanate from, is dynamic.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact: **I find it hard to define myself with something specific when I believe the Creator, from which we emanate from, is dynamic. I'm constantly evolving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
