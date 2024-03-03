@@ -21,7 +21,7 @@
 <a href="/nelsonelijah.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nelsonelijah.com" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages: </h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
@@ -29,10 +29,26 @@
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <!--<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
-<img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 </p>
+
+<h3 align="left">Tools: </h3>
+<p align="left">
+<img src="https://img.shields.io/badge/-Digital Ocean-black?style=flat-square&logo=digitalocean"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
+</p>
+
+<h3 align="left">Frameworks: </h3>
+<p align="left">
+<img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
+<img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
+<br/>
+Currently learning <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelsonifechukwu&show_icons=true&locale=en&layout=compact" alt="nelsonifechukwu" /></p>
 
