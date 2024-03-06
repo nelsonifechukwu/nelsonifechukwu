@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on Embedded systems and Web development @ [SpaceinAfrica](www.spaceinafrica.com) 
   
-- 🌱 I'm currently learning about AI, NodeJs, and Advanced Mathematics
+- 🌱 I'm currently learning about AI applications in Hardware systems, NodeJs, and Advanced Mathematics
   
 - 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](www.nelsonelijah.com/project/)
   
