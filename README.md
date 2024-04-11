@@ -7,7 +7,7 @@
 
 <h3 align="left">About me </h3>
 
-- 🔭 I'm currently working on Embedded systems and Web development @ [SpaceinAfrica](www.spaceinafrica.com) 
+- 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](www.spaceinafrica.com) 
   
 - 🌱 I'm currently learning about AI applications in Hardware systems, NodeJs, and Advanced Mathematics
   
