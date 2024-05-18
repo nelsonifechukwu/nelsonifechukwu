@@ -13,7 +13,7 @@
   
 - 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](https://www.nelsonelijah.com/project/)
   
-- 📝 I regularly write articles @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
+- 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
   
 - ⚡ Fun fact: **I find it hard to define myself with something specific when I believe the Creator, whom we emanate from, is dynamic. I'm constantly evolving.**
 
