@@ -15,7 +15,7 @@
   
 - 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
   
-- ⚡ Fun fact: **I find it hard to define myself with something specific when I believe the Creator, whom we emanate from, is dynamic. I'm constantly evolving.**
+- ⚡ Fun fact: **I find it hard to define myself using a term when I believe the Creator, whom we emanate from, is dynamic. I'm constantly evolving.**
 
 <h3 align="left">Languages: </h3>
 <p align="left"> 
