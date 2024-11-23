@@ -15,9 +15,9 @@
   
 - 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
   
-- ⚡ Fun fact: **I find it hard to define myself using a term when I believe the Creator, whom we emanate from, is dynamic. I'm constantly evolving.**
+- ⚡ Fun fact: **I find it hard to define myself using a term when I believe the Creator we emanate from is dynamic. I'm constantly evolving.**
 
-- Best Quote at the moment: "The greatest shortcoming of the human race is our inability to understand the exponential function," Professor Albert Allen Bartlett's 
+- Best Quote: "The greatest shortcoming of the human race is our inability to understand the exponential function," Professor Albert Allen Bartlett's 
 
 <h3 align="left">Languages: </h3>
 <p align="left"> 
