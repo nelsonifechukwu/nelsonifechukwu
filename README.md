@@ -17,6 +17,8 @@
   
 - ⚡ Fun fact: **I find it hard to define myself using a term when I believe the Creator, whom we emanate from, is dynamic. I'm constantly evolving.**
 
+- Best Quote at the moment: "The greatest shortcoming of the human race is our inability to understand the exponential function"——Professor Albert Allen Bartlett's 
+
 <h3 align="left">Languages: </h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>
