@@ -47,8 +47,8 @@
 
 <h3 align="left">My Github History!</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nelsonifechukw&theme=ayu-mirage&show_icons=true"/>  </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nelsonifechukwu&theme=ayu-mirage&show_icons=true"/>  </p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonifechukw&theme=ayu-mirage" alt="nelsonifechukwu" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonifechukwu&theme=ayu-mirage" alt="nelsonifechukwu" /></p>
 
 <!--![Snake animation](https://github.com/nelsonifechukwu/nelsonifechukwu/blob/output/github-contribution-grid-snake.svg)-->
