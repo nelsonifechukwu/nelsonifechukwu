@@ -51,4 +51,4 @@
 
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonifechukwu&theme=ayu-mirage" alt="nelsonifechukwu" /></p>
 
-![Snake animation](https://github.com/nelsonifechukwu/nelsonifechukwu/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/nelsonifechukwu/nelsonifechukwu/blob/output/github-contribution-grid-snake.svg)-->
