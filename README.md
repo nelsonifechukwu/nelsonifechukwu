@@ -49,6 +49,6 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nelsonifechukwu&theme=ayu-mirage&show_icons=true"/>  </p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonifechukwu&theme=ayu-mirage" alt="nelsonifechukwu" /></p>
+<p><img align="" src="" alt="nelsonifechukwu" /></p>
 
 <!--![Snake animation](https://github.com/nelsonifechukwu/nelsonifechukwu/blob/output/github-contribution-grid-snake.svg)-->
