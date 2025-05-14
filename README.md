@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson: A scenius of adaptability</h1>
-<h3 align="center">I am a dynamic Systems engineer with experience in Embedded Systems & Artificial Intelligent Engineering</h3>
+<h3 align="center">I am a dynamic Systems engineer with experience in Embedded Systems & Artificial Intelligence Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonifechukwu&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonifechukwu" /> </p>
 
@@ -14,10 +14,8 @@
 - 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](https://www.nelsonelijah.com/project/)
   
 - 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
-  
-- ⚡ Fun fact: **I find it hard to define myself using a term when I believe the Creator we emanate from is dynamic. I'm constantly evolving.**
 
-- Best Quote: "The greatest shortcoming of the human race is our inability to understand the exponential function," Professor Albert Allen Bartlett's 
+- Remember: The greatest shortcoming of the human race is our inability to understand the exponential function⏤Professor Albert Allen Bartlett's. So, never stop learning and building. 
 
 <h3 align="left">Languages: </h3>
 <p align="left"> 
