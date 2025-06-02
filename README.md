@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nelson: A scenius of adaptability</h1>
-<h3 align="center">I am a dynamic Systems engineer with experience in Embedded Systems & Artificial Intelligence Engineering</h3>
+<!--<h1 align="center">Hi 👋, I'm Nelson: A scenius of adaptability</h1>
+<h3 align="center">I am a dynamic Systems engineer with experience in Embedded Systems & Artificial Intelligence Engineering</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonifechukwu&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonifechukwu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>-->
 
-<h3 align="left">About me </h3>
+<!--<h3 align="left">About me </h3>-->
+- Hi 👋, I'm Nelson. Tag me a scenius of adaptability. I am a dynamic Systems engineer with experience in Embedded Systems & Artificial Intelligence Engineering
 
 - 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](https://www.spaceinafrica.com) 
   
-- 🌱 I'm currently learning about AI applications in Hardware systems, Algorithms and Advanced Mathematics
+- 🌱 I'm always learning about AI applications in Hardware systems, Algorithms and Advanced Mathematics
   
 - 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](https://www.nelsonelijah.com/project/)
   
 - 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
 
-- Remember: The greatest shortcoming of the human race is our inability to understand the exponential function⏤Professor Albert Allen Bartlett's. So, never stop learning and building. 
+- Remember: The greatest shortcoming of the human race is our inability to understand the exponential function⏤Professor Albert Allen Bartlett's. Never stop learning and building 
 
 <h3 align="left">Languages: </h3>
 <p align="left"> 
