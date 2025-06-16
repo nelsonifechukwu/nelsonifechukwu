@@ -9,9 +9,9 @@
 # Hi, I’m Nelson👋. 
 
 - I am a dynamic **Systems engineer** with experience in<br>
-  **Embedded Systems**,<br>
-  **Backend Engineering** &<br>
-  **Artificial Intelligence Engineering**
+  📟Embedded Systems,<br>
+  ⚙️Backend Engineering &<br>
+  🤖Artificial Intelligence Engineering
   
 - 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](https://www.spaceinafrica.com) 
   
