@@ -6,7 +6,8 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>-->
 
 <!--<h3 align="left">About me </h3>-->
-<div align="center"> # Hi 👋, I’m Nelson. </div>
+<div align="center"> Hi 👋, I’m Nelson. </div>
+
 - I am a dynamic **Systems engineer** with experience in **Embedded Systems**, **Backend Engineering** & **Artificial Intelligence Engineering**
   
 - 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](https://www.spaceinafrica.com) 
