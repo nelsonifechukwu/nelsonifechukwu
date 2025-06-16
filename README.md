@@ -6,7 +6,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>-->
 
 <!--<h3 align="left">About me </h3>-->
-<div align="center"> Hi 👋, I’m Nelson. </div>
+# Hi, I’m Nelson👋. 
 
 - I am a dynamic **Systems engineer** with experience in **Embedded Systems**, **Backend Engineering** & **Artificial Intelligence Engineering**
   
@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <!--<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 </p>
@@ -38,12 +37,13 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
 </p>
 
 <h3 align="left">Frameworks: </h3>
 <p align="left">
 <img src= "https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<!-- <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
 </p>
 
 <h3 align="left">My Github History!</h3>
