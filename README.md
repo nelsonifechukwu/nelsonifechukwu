@@ -6,8 +6,9 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>-->
 
 <!--<h3 align="left">About me </h3>-->
-- Hi 👋, I'm Nelson. Tag me a scenius of adaptability. I am a dynamic Systems engineer with experience in Embedded Systems & Artificial Intelligence Engineering
-
+# Hi 👋, I'm Nelson. 
+- I am a dynamic **Systems engineer** with experience in **Embedded Systems**, **Backend Engineering** & **Artificial Intelligence Engineering**
+  
 - 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](https://www.spaceinafrica.com) 
   
 - 🌱 I'm always learning about AI applications in Hardware systems, Algorithms and Advanced Mathematics
@@ -16,7 +17,7 @@
   
 - 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
 
-- Remember: The greatest shortcoming of the human race is our inability to understand the exponential function⏤Professor Albert Allen Bartlett's. Never stop learning and building 
+- Remember: The greatest shortcoming of the human race is our inability to understand the exponential function⏤Professor Albert Allen Bartlett's. Never stop learning and building. You can tag me a scenius of adaptability. 
 
 <h3 align="left">Languages: </h3>
 <p align="left"> 
