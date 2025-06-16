@@ -8,7 +8,10 @@
 <!--<h3 align="left">About me </h3>-->
 # Hi, I’m Nelson👋. 
 
-- I am a dynamic **Systems engineer** with experience in **Embedded Systems**, **Backend Engineering** & **Artificial Intelligence Engineering**
+- I am a dynamic **Systems engineer** with experience in
+  **Embedded Systems**,
+  **Backend Engineering** &
+  **Artificial Intelligence Engineering**
   
 - 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](https://www.spaceinafrica.com) 
   
