@@ -9,10 +9,10 @@
 # Hi, I’m Nelson👋. 
 
 - I am a dynamic **Systems engineer** with experience in<br>
-  📟 Embedded Systems,<br>
-  ⚙️ Backend Engineering &<br>
-  🤖 Applied Machine Learning
-  
+  🤖 Applied Machine Learning,<br>
+  📟 Embedded Systems &<br>
+  ⚙️ Backend Engineering
+
 - 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](https://www.spaceinafrica.com) 
   
 - 🌱 I'm always learning about AI applications in Hardware systems, Algorithms and Advanced Mathematics
