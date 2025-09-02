@@ -21,8 +21,12 @@
   
 - 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
 
-- Remember: The greatest shortcoming of the human race is our inability to understand the exponential function⏤Professor Albert Allen Bartlett's. Never stop learning and building. You can tag me a scenius of adaptability. 
-
+- Never forget these [hacking laws](https://hacker-laws.com/):
+  - “The greatest shortcoming of the human race is our inability to understand the exponential function.” — Professor Albert Allen Bartlett
+	- Gall’s Law: “A complex system that works is invariably found to have evolved from a simple system that worked.”
+	- YAGNI (You Aren’t Gonna Need It): “Always implement things when you actually need them, never when you just foresee that you need them.”
+  - Kidlin's law: "If you write the problem down clearly, then the matter is half solved."
+    
 <h3 align="left">Languages: </h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>
