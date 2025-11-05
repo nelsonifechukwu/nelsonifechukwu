@@ -13,7 +13,7 @@
   📟 Embedded Systems &<br>
   ⚙️ Backend Engineering
 
-- 🔭 I'm currently working on Embedded systems, AI and Web development @ [SpaceinAfrica](https://www.spaceinafrica.com) 
+- 🔭 I'm currently grinding Machine Learning at [Cambridge](https://www.mastercardfoundation.fund.cam.ac.uk/directory/2025-2026-scholars)
   
 - 🌱 I'm always learning about AI applications in Hardware systems, Algorithms and Advanced Mathematics
   
@@ -22,9 +22,9 @@
 - 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
 
 - Never forget these [hacking laws](https://hacker-laws.com/):
-  - **Gall’s Law:** A complex system that works is invariably found to have evolved from a simple system that worked.
-  - **YAGNI (You Aren’t Gonna Need It):** Always implement things when you actually need them, never when you just foresee that you need them.
-  - **Kidlin's Law:** If you write the problem down clearly, then the matter is half solved.
+  - **Gall’s Law:** A complex system that works is invariably found to have evolved from a simple system that worked
+  - **YAGNI (You Aren’t Gonna Need It):** Always implement things when you actually need them, never when you just foresee that you need them
+  - **Kidlin's Law:** If you write the problem down clearly, then the matter is half solved
   - “The greatest shortcoming of the human race is our inability to understand the exponential function.” — Professor Albert Allen Bartlett
     
 <h3 align="left">Languages: </h3>
