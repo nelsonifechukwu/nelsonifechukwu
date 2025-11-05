@@ -25,7 +25,7 @@
   - **Gall’s Law:** A complex system that works is invariably found to have evolved from a simple system that worked
   - **YAGNI (You Aren’t Gonna Need It):** Always implement things when you actually need them, never when you just foresee that you need them
   - **Kidlin's Law:** If you write the problem down clearly, then the matter is half solved
-  - The greatest shortcoming of the human race is our inability to understand the exponential function — Professor Albert Allen Bartlett. Just keep building! 
+  - The greatest shortcoming of the human race is our inability to understand the exponential function — Professor Albert Allen Bartlett. Just keep building (e^build)! 
     
 <h3 align="left">Languages: </h3>
 <p align="left"> 
