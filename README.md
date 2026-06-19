@@ -7,7 +7,7 @@
 
 <!--<h3 align="left">About me </h3>-->
 # Hi, I’m Nelson👋. 
-
+~There's no miracle people.I was an ordinary person who studied very hard ––Feynman~
 - I am a dynamic **Systems engineer** with experience in:<br>
   🤖 Applied Machine Learning,<br>
   📟 Embedded Systems &<br>
