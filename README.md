@@ -24,6 +24,7 @@ _There are no miracles people. I was an ordinary person who studied very hard ~ 
 - Never forget these [hacking laws](https://hacker-laws.com/):
   - **Gall’s Law:** A complex system that works is invariably found to have evolved from a simple system that worked. Inch by inch, everything's a cinch.
   - **YAGNI (You Aren’t Gonna Need It):** Always implement things when you actually need them, never when you just foresee that you need them
+  - **Hick's law:** More options means slower decisions.
   - **Kidlin's Law:** If you write the problem down clearly, then the matter is half solved
   - The greatest shortcoming of the human race is our inability to understand the exponential function — Professor Albert Allen Bartlett. Just keep building (e^build)! 
     
