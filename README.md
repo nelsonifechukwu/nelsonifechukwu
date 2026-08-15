@@ -13,7 +13,7 @@ _There are no miracles people. I was an ordinary person who studied very hard ~ 
   📟 Embedded Systems &<br>
   ⚙️ Backend Engineering
 
-- 🔭 I'm currently grinding Machine Learning at [Cambridge](https://www.mastercardfoundation.fund.cam.ac.uk/directory/2025-2026-scholars)
+- 🔭 Studied ML at [Cambridge](https://www.mastercardfoundation.fund.cam.ac.uk/directory/2025-2026-scholars)
   
 - 🌱 I'm always learning about AI applications in Hardware systems, Algorithms and Advanced Mathematics
   
