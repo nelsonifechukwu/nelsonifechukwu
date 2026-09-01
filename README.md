@@ -60,7 +60,7 @@ _There are no miracles people. I was an ordinary person who studied very hard ~ 
 <p>
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=nelsonifechukwu&theme=ayu-mirage&show_icons=true"/>  </p> -->
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonifechukwu&theme=ayu-mirage" alt="nelsonifechukwu" /></p>
+<p align="center"><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonifechukwu&theme=ayu-mirage" alt="nelsonifechukwu" /></p>
 
 <h3>Github contributions</h3>
 
