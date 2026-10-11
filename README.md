@@ -38,10 +38,38 @@ _There are no miracles, people. I was an ordinary person who studied very hard ~
 
 ---
 
-|---|---|
-| **Languages** | ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) |
-| **Tools** | ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) |
-| **Frameworks** | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=pytorch) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow) |
+
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
+</td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+<img src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
+</td>
+</tr>
+<tr>
+<td><strong>Frameworks</strong></td>
+<td>
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=pytorch"/>
+<img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow"/>
+</td>
+</tr>
+</table>
 
 
 <h3 align="left">My Github History!</h3>
