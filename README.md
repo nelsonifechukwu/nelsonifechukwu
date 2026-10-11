@@ -1,7 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm Nelson: A scenius of adaptability</h1>
 <h3 align="center">I am a dynamic Systems engineer with experience in Embedded Systems & Artificial Intelligence Engineering</h3>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonifechukwu&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonifechukwu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonifechukwu&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonifechukwu" /> </p> -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>-->
 
