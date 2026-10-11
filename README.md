@@ -7,19 +7,14 @@
 
 <!--<h3 align="left">About me </h3>-->
 # Hi, I’m Nelson👋. 
-_There are no miracles people. I was an ordinary person who studied very hard ~ Richard Feynman_
-- I am a dynamic **Systems engineer** with experience in:<br>
-  🤖 Applied Machine Learning,<br>
-  📟 Embedded Systems &<br>
-  ⚙️ Backend Engineering
+_There are no miracles, people. I was an ordinary person who studied very hard ~ Richard Feynman_
+- **Systems engineer**: Applied ML + Embedded Systems + Backend Engineering + Optimization
 
 - 🔭 Studied ML at [Cambridge](https://www.mastercardfoundation.fund.cam.ac.uk/people/elijah-nelson)
   
-- 🌱 I'm always learning about AI applications in Hardware systems, Algorithms and Advanced Mathematics
+- 👨‍💻 Projects: [nelsonelijah.com/project/](https://www.nelsonelijah.com/projects/)
   
-- 👨‍💻 All of my projects are available @ [nelsonelijah.com/project/](https://www.nelsonelijah.com/projects/)
-  
-- 📝 I regularly write @ [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
+- 📝 Writings: [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
   
 <details>
 <summary><strong>Never forget these [hacking laws](https://hacker-laws.com/)</strong></summary>
