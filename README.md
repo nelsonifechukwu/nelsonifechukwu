@@ -10,9 +10,9 @@
 
 # Hi, I’m Nelson 👋
 
-_There are no miracles, people. I was an ordinary person who studied very hard ~ Richard Feynman_
-
-**Systems engineer**: Applied ML + Embedded Systems + Backend Engineering + Optimization
+I love to build systems that learn from humans and sensors to make dependable decisions.
+Working at the chip and model layer of AI development
+**Systems engineer**: Embedded Systems + Applied ML + Backend Engineering + Optimization
 
 ---
 
