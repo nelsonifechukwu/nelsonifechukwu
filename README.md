@@ -16,7 +16,7 @@ Working at the chip and model layer of AI development.  </br>
 
 ---
 
-🔭 Studied ML at [Cambridge](https://www.mastercardfoundation.fund.cam.ac.uk/people/elijah-nelson)  
+🔭 Studied ML at Cambridge
 👨‍💻 Projects: [nelsonelijah.com/project/](https://www.nelsonelijah.com/projects/)  
 📝 Writings: [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
 
