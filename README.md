@@ -10,7 +10,7 @@
 
 <!--# Hi, I’m Nelson 👋-->
 
-I love to build systems that learn from humans and sensors to make dependable decisions. </br>
+Building systems that learn from humans and sensors to make dependable decisions. </br>
 Working at the chip and model layer of AI development.  </br>
 **Systems engineer**: Embedded Systems + Applied ML + Backend Engineering + Optimization.  
 
