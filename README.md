@@ -6,27 +6,28 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonifechukwu" alt="nelsonifechukwu" /></a> </p>-->
 
 <!--<h3 align="left">About me </h3>-->
-# Hi, I’m Nelson👋. 
-_There are no miracles, people. I was an ordinary person who studied very hard ~ Richard Feynman_
-- **Systems engineer**: Applied ML + Embedded Systems + Backend Engineering + Optimization
 
-- 🔭 Studied ML at [Cambridge](https://www.mastercardfoundation.fund.cam.ac.uk/people/elijah-nelson)
-  
-- 👨‍💻 Projects: [nelsonelijah.com/project/](https://www.nelsonelijah.com/projects/)
-  
-- 📝 Writings: [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
-  
+# Hi, I'm Nelson 👋
+
+*“There are no miracles, people. I was an ordinary person who studied very hard.” — Richard Feynman*
+
+**Systems Engineer** working across Applied ML, Embedded Systems, Backend Engineering, and Optimization.
+
+- 🎓 **Education:** Machine Learning at [Cambridge](https://www.mastercardfoundation.fund.cam.ac.uk/people/elijah-nelson)
+- 🛠️ **Projects:** [nelsonelijah.com/projects](https://www.nelsonelijah.com/projects/)
+- ✍️ **Writing:** [nelsonelijah.com/blog](https://www.nelsonelijah.com/blog)
+
 <details>
-<summary><strong>Never forget these [hacking laws](https://hacker-laws.com/)</strong></summary>
+<summary><strong>Principles I build by</strong></summary>
 
-<ul>
-  <li><strong>Gall’s Law:</strong> A complex system that works is invariably found to have evolved from a simple system that worked.</li>
-  <li>The universe is intelligible. Inch by inch, everything's a cinch.</li>
-  <li><strong>YAGNI (You Aren’t Gonna Need It):</strong> Always implement things when you actually need them, never when you just foresee that you need them.</li>
-  <li><strong>Hick's Law:</strong> More options means slower decisions.</li>
-  <li><strong>Kidlin's Law:</strong> If you write the problem down clearly, then the matter is half solved.</li>
-  <li>The greatest shortcoming of the human race is our inability to understand the exponential function — Professor Albert Allen Bartlett. Just keep building (e^build)!</li>
-</ul>
+- **Gall's Law:** Complex systems evolve from simple systems that work.
+- **YAGNI:** Build what you need, when you need it.
+- **Hick's Law:** More choices, slower decisions.
+- **Kidlin's Law:** A clearly stated problem is half solved.
+- **Intelligibility:** Inch by inch, everything's a cinch.
+- **Exponential Thinking:** Understand exponential growth. Keep building (e^build)!
+
+Inspired by [Hacker Laws](https://hacker-laws.com/) and Richard Feynman.
 
 </details>
 
