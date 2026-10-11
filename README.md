@@ -78,8 +78,6 @@ Working at the chip and model layer of AI development.  </br>
 
 <p align="center"><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonifechukwu&theme=ayu-mirage" alt="nelsonifechukwu" /></p>
 
-<h3>Github contributions</h3>
-
 <p align="center">
   <img
     src="https://gitlyy.vercel.app/api/contribution?username=nelsonifechukwu&theme=github_dark&hide_border=true"
