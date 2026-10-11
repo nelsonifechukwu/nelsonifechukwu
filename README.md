@@ -8,7 +8,7 @@
 <!--<h3 align="left">About me </h3>-->
 
 
-# Hi, I’m Nelson 👋
+<!--# Hi, I’m Nelson 👋-->
 
 I love to build systems that learn from humans and sensors to make dependable decisions. </br>
 Working at the chip and model layer of AI development.  </br>
